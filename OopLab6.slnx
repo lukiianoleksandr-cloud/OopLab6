@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/Книгарня.csproj" />
+  <Project Path="Mordor/Mordor.csproj" />
+  <Project Path="Наслідування/Наслідування.csproj" />
+  <Project Path="Онлайн-Радіо/Онлайн-Радіо.csproj" />
+</Solution>
